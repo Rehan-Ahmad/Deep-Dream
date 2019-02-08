@@ -1,5 +1,5 @@
 # Deep-Dream
-Deep dream algorithm implementation in Pytorch
+Implementation of deep dream algorithm in Pytorch using a pretrained VGG19 model. Output of the algorithm can be taken from any convolution layer, filter number and itrations by passing values to these arguments.
 
 Dream output at iteration 20 <br>
 ![alt text](https://github.com/Rehan-Ahmad/Deep-Dream/blob/master/dream_l34_f94_iter20.jpg)
